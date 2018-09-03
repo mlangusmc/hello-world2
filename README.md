@@ -1,3 +1,3 @@
 # hello-world2
-My second time visiting GIT
+My 2nd time visiting GIT
 I am relatively new to coding and attempting to learn several new languages... 
